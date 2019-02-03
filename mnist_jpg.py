@@ -7,6 +7,8 @@
 #1. make the path recognition OS independent
 #2. do a file-exists check before execution
 
+## -----------  INTRODUCTION ---------------
+
 # this script assumes that the following files are in the same location as the script. 
 # So your folder / directory should look something like this:
 # 
